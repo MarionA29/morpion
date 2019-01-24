@@ -1,1 +1,1 @@
-<h1>#####MORPION#####</h1>
+<h1><center>#####MORPION#####<center></h1>
