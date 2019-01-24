@@ -7,14 +7,11 @@ class Board
 
 
   def initialize
-
-    @array_of_boardcases = ["@A1", "@A2", "@A3", "@B1", "@B2", "@B3", "@C1", "@C2", "@C3"]
-    i = 0
-    @array_of_boardcases.each do |boardcase|
-    boardcase = BoardCase.new(i)
-    i =i+1
+    @array_of_boardcases = []
+    9.times do |i|
+    @array_of_boardcases << BoardCase.new(i)
     end
-    return @array_of_boardcases
+
     #TO DO :
     #Quand la classe s'initialize, elle doit créer 9 instances BoardCases
     #Ces instances sont rangées dans un array/hash qui est l'attr_accessor de la classe
@@ -30,8 +27,7 @@ class Board
   end
 
   def victory?
-
-    #TO DO : une méthode qui vérifie le plateau et indique s'il y a un vainqueur ou match nul
   end
+
 
 end
