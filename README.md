@@ -1,16 +1,5 @@
-<h1>#####MORPION#####</h1>
-
-
-
-- Marion Audren
-- Thomas Le Vot
-- Maxime Pouzol
-- Enzo De Carvalho
-
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
+                                            <h1>#####MORPION#####</h1>                                                                                                                
+                                                                                                                                                                                                       
                                                              `.`                                    
                                    ``     ``         `-.    `ymh`                                   
                                   .dd:   `hdy+.`    -ymm.   `hmm`                                   
@@ -47,3 +36,7 @@
                                        :sy:                                                         
                                                                                                     
                                                                                                     
+- Marion Audren
+- Thomas Le Vot
+- Maxime Pouzol
+- Enzo De Carvalho
