@@ -44,7 +44,7 @@
                                        :sy:                                                         
                                                                                                     
                                                                                                     
-- Marion Audren
+- Marion Audren 🧘🏽‍
 - Thomas Le Vot 🏐
-- Maxime Pouzol
-- Enzo De Carvalho
+- Maxime Pouzol 🍺
+- Enzo De Carvalho 👮‍♂️
