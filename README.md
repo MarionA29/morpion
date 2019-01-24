@@ -53,3 +53,6 @@
 - Thomas Le Vot 🏐
 - Maxime Pouzol 🍺
 - Enzo De Carvalho 👮‍♂️
+
+Repository incomplet et programme qui ne marche pas ...
+J'attends vos corrections avec impatience ;)
