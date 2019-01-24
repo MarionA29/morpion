@@ -1,6 +1,6 @@
  <h1>#####MORPION#####</h1>                                                                                                                
                                                                                                                                                                                                        
-                                                             `.`                                    
+<h2>Règle du jeu</h2>                                                            `.`                                    
                                    ``     ``         `-.    `ymh`                                   
                                   .dd:   `hdy+.`    -ymm.   `hmm`                                   
                                   .dmo    :ydmmho:-ommh+`    smm.       `:shhyo-                    
