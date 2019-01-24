@@ -1,6 +1,14 @@
- <h1>#####MORPION#####</h1>                                                                                                                
+ <h1>#####MORPION#####</h1>
+ 
+ 
+ <h4>Règle du jeu</h4>
+<h6> Les joueurs inscrivent tour à tour leur symbole sur une grille qui n'a pas de limites ou qui n'a que celles du papier sur lequel on joue.<h6>
+ 
+ 
+ 
+ 
                                                                                                                                                                                                        
-<h2>Règle du jeu</h2>                                                            `.`                                    
+                                                           `.`                                    
                                    ``     ``         `-.    `ymh`                                   
                                   .dd:   `hdy+.`    -ymm.   `hmm`                                   
                                   .dmo    :ydmmho:-ommh+`    smm.       `:shhyo-                    
