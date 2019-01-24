@@ -1,4 +1,4 @@
- <h1>🏆#####MORPION#####🏆</h1>
+ <h1> :fire: #####MORPION##### :fire: </h1>
  
  
  <h4>Règle du jeu</h4>
